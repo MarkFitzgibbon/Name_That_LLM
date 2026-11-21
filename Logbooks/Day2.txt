@@ -1,0 +1,14 @@
+Increasing hidden layers (128->256) increased balanced validation to 0.452
+384 layers -> 0.4538
+512 layers ->  0.4553
+
+Logistic regression presents a best score of 0.4551, with the confusion matrices thowing that classification of some models improves,
+while other deteriorates
+
+increasing the amount of features from 30k -> 60k
+nn -> 0.4667
+logreg -> 0.4688
+
+increasing the amount of features from 60k -> 120k -> ended up decreasing performance
+nn -> 
+logreg -> 

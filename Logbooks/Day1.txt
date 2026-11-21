@@ -1,0 +1,5 @@
+Created the initial TPU utilising code, score 0.429 on the leaderboard.
+
+Initial balanced accuracy of 0.4339 using ngram range of (3, 5)
+
+ngram range of (1, 3) resulted in bal acc of 0.4103

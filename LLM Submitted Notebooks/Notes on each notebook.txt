@@ -1,0 +1,17 @@
+V1s - used machine learning algorithms that run on the cpu
+V2s - switched to using GPU based algorithms
+
+Added an additional dataset at some stage, which introduced around 200k new prompts to the dataset, and this resulted in an immediate increase in score.
+
+V1.2 - LB Score: 0.315
+V1.3 - LB Score: 0.315
+V1.5 - LB Score: 0.417
+
+V2.1 - LB Score: 0.429
+V2.2 - LB Score: 0.410
+V2.3 - LB Score: 0.439
+V2.4 - LB Score: 0.439
+
+Public NB 1: copied from Omer Faruk Merey, LB Score: 0.682
+Public NB 2: copied from Vladislav Lavrentev, LB Score: 0.703
+
